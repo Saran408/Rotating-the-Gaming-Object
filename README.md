@@ -39,5 +39,7 @@ Stop
 ## Program:
 
 ## Output:
+![Screenshot (6)](https://user-images.githubusercontent.com/75235427/165437735-9ce5098e-21d4-4f96-820a-de58aa170376.png)
+
 
 ## Result:
